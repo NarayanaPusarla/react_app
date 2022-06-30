@@ -19,9 +19,6 @@ function Navbar() {
         <Grid item xs={4}>
           <h3>xs=4</h3>
         </Grid>
-        <Grid item xs={8}>
-          <h3>xs=8</h3>
-        </Grid>
       </Grid>
     </Box>
     <div className='nav-section'>
