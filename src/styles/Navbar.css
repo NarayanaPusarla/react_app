@@ -1,0 +1,28 @@
+.nav-section {
+    display: flex;
+}
+
+.nav-section a {
+    text-decoration: none;
+}
+
+.nav-section > div {
+    display: flex;
+}
+
+.menu-bar > div {
+    display: flex;
+}
+
+.menu-items {
+    list-style: none;
+    display: flex;
+}
+
+.menu-items li {
+    padding :0em 2em;
+}
+
+.menu-item a {
+    text-decoration: none;
+}
